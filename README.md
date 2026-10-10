@@ -18,20 +18,31 @@
 I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
 
 - 🔭 **Current Focus:**
+
 • Security Operations (SOC)
+
 • Threat Hunting
+
 • Incident Response
+
 • Threat Intelligence Analyst
+
 • Vulnerability Assesment
+
 • Penetration Testing
+
 • Security Engineer
 
 - 📜 **Certifications:**
+  
 • SOC Level 1 Learning Path (Tryhackme)
+
 • CompTIA Security+ Preparation Path (Soon/Letsdefend)
+
 • CySA+ Preparation Path (Soon/Letsdefend)]
 
--🌐 Connect 
+- 🌐 Connect
+  
 [![Email](https://shields.io)](mailto:Ghaisannn7@gmail.com)
 
 ---
@@ -40,7 +51,7 @@ I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Unders
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **SIEM & Monitoring** | Splunk, Wazuh, Elastic Stack (ELK), Microsoft Sentinel |
+| **SIEM & Monitoring** | Splunk, Wazuh, Elastic Stack (ELK), |
 | **Network & Traffic Analysis** | Wireshark, Suricata, tshark |
 | **Endpoint & EDR** | Sysmon, Windows Event Logs, Linux Auditd |
 | **Threat Intelligence** | Virustotal, AnyRun |
