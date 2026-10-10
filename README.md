@@ -1,8 +1,11 @@
 # Cyber-Ghaisan
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-<a href="https://medium.com"><img src="https://shields.io" alt="Medium"></a>
-<a href="https://tryhackme.com"><img src="https://shields.io" alt="TryHackMe"></a>
-<a href="https://letsdefend.io"><img src="https://shields.io" alt="Letsdefend"></a>
+[![LinkedIn-Ghaisan-Fawwaz-blue](https://shields.io)](https://www.linkedin.com/in/ghaisanfawwaz)
+
+[![TryHackMe-TRANBISON-lightblue](https://shields.io)](https://tryhackme.com/p/TRANBISON)
+
+[![Letsdefend-TRANBISON-blue](https://shields.io)](https://app.letsdefend.io/user/TRANBISON)
+
+[![Medium-Ghaisan--Fawwaz-black](https://shields.io)](https://medium.com/@Ghaisan-Fawwaz)
 
 ## 👨‍💻 About Me
 #### **SOC Analyst|Blue Team|Cybersecurity Enthusiast**
