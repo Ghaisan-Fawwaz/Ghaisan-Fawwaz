@@ -1,15 +1,16 @@
 # Cyber-Ghaisan
 <!-- LINKEDIN (Biru Tua) -->
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ghaisanfawwaz)
+[![LinkedIn](https://byb.io)](https://www.linkedin.com/in/ghaisanfawwaz)
 
 <!-- TRYHACKME (Biru Muda) -->
-[![TryHackMe](https://shields.io)](https://tryhackme.com/p/TRANBISON)
+[![TryHackMe](https://byb.io)](https://tryhackme.com/p/TRANBISON)
 
 <!-- LETSDEFEND (Biru Tua) -->
-[![LetsDefend](https://shields.io)](https://app.letsdefend.io/user/TRANBISON)
+[![LetsDefend](https://byb.io)](https://app.letsdefend.io/user/TRANBISON)
 
 <!-- MEDIUM (Hitam) -->
-[![Medium](https://shields.io)](https://medium.com/@Ghaisan-Fawwaz)
+[![Medium](https://byb.io)](https://medium.com/@Ghaisan-Fawwaz)
+
 
 ## 👨‍💻 About Me
 #### **SOC Analyst|Blue Team|Cybersecurity Enthusiast**
