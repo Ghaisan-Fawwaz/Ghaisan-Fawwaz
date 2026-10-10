@@ -1,24 +1,30 @@
 # Cyber-Ghaisan
-<a href="https://www.linkedin.com/in/ghaisanfawwaz"><img src="https://shields.io" alt="LinkedIn"></a>
-<a href="https://medium.com/@Ghaisan-Fawwaz"><img src="https://shields.io" alt="Medium"></a>
-<a href="https://tryhackme.com/p/TRANBISON"><img src="https://shields.io" alt="TryHackMe"></a>
-<a href="https://app.letsdefend.io/user/TRANBISON"><img src="https://shields.io" alt="Letsdefend"></a>
+<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="https://medium.com"><img src="https://shields.io" alt="Medium"></a>
+<a href="https://tryhackme.com"><img src="https://shields.io" alt="TryHackMe"></a>
+<a href="https://letsdefend.io"><img src="https://shields.io" alt="Letsdefend"></a>
 
 ## 👨‍💻 About Me
 #### **SOC Analyst|Blue Team|Cybersecurity Enthusiast**
 
-I am a passionate |SOC Analyst / Incident Response / Cyber Defence| dedicated to monitoring SIEM such as network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
+I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
 
-- 🔭 **Current Focus:** Security Operations Center (SOC), Incident Response, Vulnerability Assesment, Penetration Testing and Security Engineer.
+- 🔭 **Current Focus:**
+• Security Operations (SOC)
+• Threat Hunting
+• Incident Response
+• Threat Intelligence Analyst
+• Vulnerability Assesment
+• Penetration Testing
+• Security Engineer
 
-- 🎯 **Certifications:** SOC Level 1 Learning Path (Tryhackme) / CompTIA Security+ Preparation Path (Soon/Letsdefend) / CySA+ Preparation Path (Soon/Letsdefend)]
+- 📜 **Certifications:**
+• SOC Level 1 Learning Path (Tryhackme)
+• CompTIA Security+ Preparation Path (Soon/Letsdefend)
+• CySA+ Preparation Path (Soon/Letsdefend)]
 
----
-
-### 🛡️ Cyber Security Platform Profiles:
-
-[![TryHackMe](https://shields.io[TRANBISON]-blue?style=flat-square&logo=tryhackme)](https://tryhackme.com[TRANBISON])
-[![LetsDefend](https://shields.io[TRANBISON]-purple?style=flat-square)](https://letsdefend.io)
+-🌐 Connect 
+[![Email](https://shields.io)](mailto:Ghaisannn7@gmail.com)
 
 ---
 
@@ -26,10 +32,10 @@ I am a passionate |SOC Analyst / Incident Response / Cyber Defence| dedicated to
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **SIEM & Monitoring** | Splunk, Elastic Stack (ELK), Wazuh, Microsoft Sentinel |
+| **SIEM & Monitoring** | Splunk, Wazuh, Elastic Stack (ELK), Microsoft Sentinel |
 | **Network & Traffic Analysis** | Wireshark, Suricata, tshark |
 | **Endpoint & EDR** | Sysmon, Windows Event Logs, Linux Auditd |
-| **Incident Response & DFIR** | Autopsy, CyberChef |
+| **Threat Intelligence** | Virustotal, AnyRun |
 | **Scripting & Automation** | Python, Bash, PowerShell |
 
 ---
@@ -39,14 +45,9 @@ I am a passionate |SOC Analyst / Incident Response / Cyber Defence| dedicated to
 | # | Project | Focus | Status |
 | :-: | :--- | :--- | :--- |
 | **1** | [SOC Home Lab](https://github.com) | WAZUH · SIEM · Suricata · Sysmon · Auditd | 🛠️ Building |
-| **2** | [Phishing & Malware Analysis](https://github.com) | Virustotal  | Soon |
-| **3** | [Network Traffic Analysis](https://github.com) | Wireshark | Soon |
+| **2** | [Network Traffic Analysis](https://github.com) | Wireshark  | Soon |
+| **3** | [SOC Home Lab AI integrated](https://github.com) | SIEM · WAZUH · ChatGPT   | Soon |
 
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://shields.io[Ghaisan-Fawwaz]-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com[Muhammad-Ghaisan-Fawwaz])
-[![Email](https://shields.io)](mailto:Ghaisannn7@gmail.com)
 
 <!--
 **Ghaisan-Fawwaz/Ghaisan-Fawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
