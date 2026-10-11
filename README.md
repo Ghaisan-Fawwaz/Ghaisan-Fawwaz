@@ -49,15 +49,25 @@ I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Unders
 
 ### 🧰 Technical Skills & Tools
 
- **SIEM & Monitoring:** Splunk · Wazuh · Elastic Stack (ELK)
+ **SIEM & Monitoring:** 
+ 
+ Splunk · Wazuh · Elastic Stack (ELK)
 
-**Network & Traffic Analysis:** Wireshark · Suricata · tshark
+**Network & Traffic Analysis:** 
 
-**Endpoint & EDR:** Sysmon · Auditd · Windows Event Logs
+Wireshark · Suricata · tshark
 
-**Threat Intelligence:** Virustotal · AnyRun · MITRE ATT&CK
+**Endpoint & EDR:** 
 
-**Scripting & Automation:** Python · Bash · PowerShell
+Sysmon · Auditd · Windows Event Logs
+
+**Threat Intelligence:** 
+
+Virustotal · AnyRun · MITRE ATT&CK
+
+**Scripting & Automation:** 
+
+Python · Bash · PowerShell
 
 ---
 
