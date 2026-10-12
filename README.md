@@ -1,15 +1,5 @@
 # Cyber-Ghaisan
-<!-- LINKEDIN (Biru Tua) -->
-[![LinkedIn](https://byb.io)](https://www.linkedin.com/in/ghaisanfawwaz)
-
-<!-- TRYHACKME (Biru Muda) -->
-[![TryHackMe](https://byb.io)](https://tryhackme.com/p/TRANBISON)
-
-<!-- LETSDEFEND (Biru Tua) -->
-[![LetsDefend](https://byb.io)](https://app.letsdefend.io/user/TRANBISON)
-
-<!-- MEDIUM (Hitam) -->
-[![Medium](https://byb.io)](https://medium.com/@Ghaisan-Fawwaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghaisanfawwaz-0077B5?style=flat&labelColor=555555)](https://www.linkedin.com/in/ghaisanfawwaz) [![TryHackMe](https://img.shields.io/badge/TryHackMe-TRANBISON-C11111?style=flat&logo=tryhackme&logoColor=white&labelColor=555555)](https://tryhackme.com/p/TRANBISON) [![LetsDefend](https://img.shields.io/badge/LetsDefend-TRANBISON-1A3A6B?style=flat&labelColor=555555)](https://app.letsdefend.io/user/TRANBISON) [![Medium](https://img.shields.io/badge/Medium-Ghaisan--Fawwaz-000000?style=flat&logo=medium&logoColor=white&labelColor=555555)](https://medium.com/@Ghaisan-Fawwaz)
 
 
 ## 👨‍💻 About Me
