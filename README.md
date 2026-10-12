@@ -2,10 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ghaisanfawwaz-0077B5?style=flat&labelColor=555555)](https://www.linkedin.com/in/ghaisanfawwaz) [![TryHackMe](https://img.shields.io/badge/TryHackMe-TRANBISON-C11111?style=flat&logo=tryhackme&logoColor=white&labelColor=555555)](https://tryhackme.com/p/TRANBISON) [![LetsDefend](https://img.shields.io/badge/LetsDefend-TRANBISON-1A3A6B?style=flat&labelColor=555555)](https://app.letsdefend.io/user/TRANBISON) [![Medium](https://img.shields.io/badge/Medium-Ghaisan--Fawwaz-000000?style=flat&logo=medium&logoColor=white&labelColor=555555)](https://medium.com/@Ghaisan-Fawwaz)
 
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 #### **SOC Analyst|Blue Team|Cybersecurity Enthusiast**
 
-I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
+I am a Cybersecurity Enthusiast passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
 
 - 🔭 **Current Focus:**
 
@@ -21,7 +21,7 @@ I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Unders
 
 • Penetration Testing
 
-• Security Engineer
+• SIEM Engineer
 
 - 📜 **Certifications:**
   
@@ -32,8 +32,7 @@ I am a |SOC Analyst / Incident Response / Security Analyst| passionate to Unders
 • CySA+ Preparation Path (Soon/Letsdefend)]
 
 - 🌐 Connect
-  
-[![Email](https://shields.io)](mailto:Ghaisannn7@gmail.com)
+  (mailto:Ghaisannn7@gmail.com
 
 ---
 
