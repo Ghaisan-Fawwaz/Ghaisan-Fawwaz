@@ -2,8 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ghaisanfawwaz-0077B5?style=flat&labelColor=555555)](https://www.linkedin.com/in/ghaisanfawwaz) [![TryHackMe](https://img.shields.io/badge/TryHackMe-TRANBISON-C11111?style=flat&logo=tryhackme&logoColor=white&labelColor=555555)](https://tryhackme.com/p/TRANBISON) [![LetsDefend](https://img.shields.io/badge/LetsDefend-TRANBISON-1A3A6B?style=flat&labelColor=555555)](https://app.letsdefend.io/user/TRANBISON) [![Medium](https://img.shields.io/badge/Medium-Ghaisan--Fawwaz-000000?style=flat&logo=medium&logoColor=white&labelColor=555555)](https://medium.com/@Ghaisan-Fawwaz)
 
 
-# 👨‍💻 About Me
-#### **SOC Analyst|Blue Team|Cybersecurity Enthusiast**
+## 👨‍💻 About Me
+#### **SOC Analyst | Blue Team | Cybersecurity Enthusiast**
 
 I am a Cybersecurity Enthusiast passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
 
@@ -31,8 +31,8 @@ I am a Cybersecurity Enthusiast passionate to Understandting and Protecting Syst
 
 • CySA+ Preparation Path (Soon/Letsdefend)]
 
-- 🌐 Connect
-  (mailto:Ghaisannn7@gmail.com
+- 🌐 **Connect**
+  (mailto:Ghaisannn7@gmail.com)
 
 ---
 
