@@ -7,7 +7,7 @@
 
 I am a Cybersecurity Enthusiast passionate to Understandting and Protecting System Such as: monitoring SIEM through network traffic, detecting anomalies, Malware Analysis, Digital forensic and mitigating cyber threats.
 
-- 🔭 **Current Focus:**
+### 🔭 **Current Focus:**
 
 • Security Operations (SOC)
 
@@ -23,15 +23,11 @@ I am a Cybersecurity Enthusiast passionate to Understandting and Protecting Syst
 
 • SIEM Engineer
 
-- 📜 **Certifications:**
+### 📜 **Certifications:**
   
 • SOC Level 1 Learning Path (Tryhackme)
 
-• CompTIA Security+ Preparation Path (Soon/Letsdefend)
-
-• CySA+ Preparation Path (Soon/Letsdefend)]
-
-- 🌐 **Connect**
+### 🌐 **Connect**
   (mailto:Ghaisannn7@gmail.com)
 
 ---
@@ -64,8 +60,9 @@ I am a Cybersecurity Enthusiast passionate to Understandting and Protecting Syst
 | # | Project | Focus | Status |
 | :-: | :--- | :--- | :--- |
 | **1** | [SOC Home Lab](https://github.com) | WAZUH · SIEM · Suricata · Sysmon · Auditd | 🛠️ Building |
-| **2** | [Network Traffic Analysis](https://github.com) | Wireshark  | Soon |
-| **3** | [SOC Home Lab AI integrated](https://github.com) | SIEM · WAZUH · ChatGPT   | Soon |
+| **2** | [Phishing Analysis](https://github.com) | Wireshark  | Soon |
+| **3** | [Malware Analysis](https://github.com) | SIEM · WAZUH · ChatGPT   | Soon |
+| **4** | [Network Traffic Analysis](https://github.com) | SIEM · WAZUH · ChatGPT   | Soon |
 
 
 <!--
